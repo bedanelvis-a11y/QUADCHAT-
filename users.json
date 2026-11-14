@@ -1,0 +1,27 @@
+{
+  "551s": {
+    "name": "551s",
+    "salt": "8e38fb9ca680fd846c60d33d3a00e086",
+    "hash": "eb035fb26a8c7f35e193d866129be3c2187ab9edb6ef5b8156d99bdf6a5c37686cd18bed0a543907731298f8f06afb8cfeeff2784db5e2a5cfbe9f1f08334844"
+  },
+  "mimi": {
+    "name": "mimi",
+    "salt": "3a04494849534f26be0e251e33b641c9",
+    "hash": "b74b6723ed70103fe79d46b9e78ff862fc2d356d75b6fb8b8696959507894f7b6d25c2b882c8446c8ce6ecac2a9396a691f6ad0a3ecb4743a47abe2c647f5026"
+  },
+  "aldo": {
+    "name": "aldo",
+    "salt": "68f962f8b498d6ecd223b5727880736a",
+    "hash": "11106f7b4ab03e139fc20c4b86001fb107622e722775ee21a76669daf1bc1ab64d7d051048768cf58040d93c6c79a5f821c603c44752cfbaba099000b88fe107"
+  },
+  "bbc": {
+    "name": "BBC",
+    "salt": "22ba4297b7c7fef9f8712508b339a5ba",
+    "hash": "3a27eab4832ac07ca51d9cbbcf592d92ba4e0a94b5904868e74d3bfd88711f32bdfcc1b1dfccfa12726a03a66db833f3cae7526d671a011a99c4fa50d3a3cbae"
+  },
+  "aldo3": {
+    "name": "aldo3",
+    "salt": "762deaae801a5441e396c72d4f4e790b",
+    "hash": "b17833195dc4656e3abd38957f3b07b19138c76099fa2847b5438b99dcaec5986357569e84854d0f45340271e1d58c22b04de08f1081d8ab2a985bf60f188404"
+  }
+}
